@@ -1,7 +1,12 @@
 # XRCore Training Assessment
 
-Unity Category: AI / XR Training  
-License: MIT
+![Unity](https://img.shields.io/badge/Unity-2022%2B%20%7C%20Unity%206-black)
+![Category](https://img.shields.io/badge/Category-AI%20%2F%20XR%20Training-1f6feb)
+![Package](https://img.shields.io/badge/Package-com.xrcore.training.assessment-7a3cff)
+![Architecture](https://img.shields.io/badge/Architecture-Event--Driven-0ea5e9)
+![License](https://img.shields.io/badge/License-MIT-84cc16)
+
+Validate, score, and certify XR training performance with measurable outcomes.
 
 XRCore Training Assessment is the evaluation and scoring layer for Unity XR training workflows built on top of XRCore SDK and XRCore Training Toolkit.
 
