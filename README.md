@@ -61,7 +61,7 @@ This package is intentionally distributed as an extension layer:
 
 - SDK demo: _coming soon_
 - Toolkit demo: _coming soon_
-- Assessment demo: _coming soon_
+- Assessment demo: [XRCore Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
 
 ## Key Features
 
