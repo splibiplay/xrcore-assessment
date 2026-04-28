@@ -6,11 +6,11 @@
 ![Architecture](https://img.shields.io/badge/Architecture-Event--Driven-0ea5e9)
 ![License](https://img.shields.io/badge/License-MIT-84cc16)
 
-Validate, score, and certify XR training performance with measurable outcomes.
+Enterprise assessment layer for measurable XR training outcomes.
 
-XRCore Training Assessment is the evaluation and scoring layer for Unity XR training workflows built on top of XRCore SDK and XRCore Training Toolkit.
+XRCore Training Assessment is the official enterprise evaluation layer for Unity XR training workflows built on top of XRCore SDK and XRCore Training Toolkit.
 
-Where XRCore provides event-driven XR intelligence and Training Toolkit provides guided scenario execution, Assessment adds measurable performance validation: score, pass/fail decisions, critical-failure detection, and exportable reports.
+Where XRCore provides event-driven XR intelligence and Training Toolkit provides guided scenario execution, Assessment adds high-value performance governance: score, pass/fail decisions, critical-failure detection, and exportable reports for audit and certification workflows.
 
 ## Demo
 
@@ -22,15 +22,27 @@ Where XRCore provides event-driven XR intelligence and Training Toolkit provides
 
 ## Why XRCore Training Assessment
 
-Most XR training demos can show that the flow ended, but they cannot prove that the trainee performed correctly.
+Most XR training demos can show completion, but they cannot prove competency.
 
-This package solves that gap by converting guided execution into measurable outcomes:
+This product solves that gap by converting guided execution into measurable, enterprise-ready outcomes:
 
 - weighted scoring per step,
 - configurable penalties,
 - mandatory-step enforcement,
 - critical-failure rules,
 - report generation for audit and QA.
+
+## Position in the XRCore Product Line
+
+```text
+Start with XRCore SDK
+       ↓
+Add Training Toolkit
+       ↓
+Add Training Assessment
+       ↓
+Scale with Authoring + Analytics
+```
 
 ## Relationship with XRCore Ecosystem
 
