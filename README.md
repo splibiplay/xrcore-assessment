@@ -59,8 +59,8 @@ This package is intentionally distributed as an extension layer:
 
 ## Video Demos
 
-- SDK demo: _coming soon_
-- Toolkit demo: _coming soon_
+- SDK demo: [XRCore SDK Demo](https://github.com/splibiplay/xrcore-sdk/raw/main/XRCore_Demo.mp4)
+- Toolkit demo: [XRCore Training Toolkit Demo](https://www.youtube.com/watch?v=NmwTmtryts8&list=PLdX4Fo1P__hpMhe5PJsSRt3a8O02E0dr3&index=2)
 - Assessment demo: [XRCore Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
 
 ## Key Features
