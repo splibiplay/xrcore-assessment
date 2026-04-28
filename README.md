@@ -50,6 +50,19 @@ This package is intentionally distributed as an extension layer:
   - assessment diagnostics,
   - exportable final reports (JSON/CSV).
 
+## XRCore Ecosystem Links
+
+- Built on top of XRCore SDK: [xrcore-sdk](https://github.com/splibiplay/xrcore-sdk)
+- Works with XRCore Training Toolkit: [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
+- Assessment package repository: [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
+- Unity Asset Store publisher page: [SPL Publisher](https://assetstore.unity.com/publishers)
+
+## Video Demos
+
+- SDK demo: _coming soon_
+- Toolkit demo: _coming soon_
+- Assessment demo: _coming soon_
+
 ## Key Features
 
 - Event-driven assessment runner (`XRTrainingAssessmentRunner`)
