@@ -67,6 +67,7 @@ This package is intentionally distributed as an extension layer:
 - Built on top of XRCore SDK: [xrcore-sdk](https://github.com/splibiplay/xrcore-sdk)
 - Works with XRCore Training Toolkit: [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
 - Assessment package repository: [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
+- Scale with XRCore Training Authoring: [xrcore-training-authoring](https://github.com/splibiplay/xrcore-training-authoring)
 - Unity Asset Store publisher page: [SPL Publisher](https://assetstore.unity.com/publishers)
 
 ## Video Demos
