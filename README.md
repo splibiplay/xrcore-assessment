@@ -8,6 +8,12 @@
 
 The enterprise evaluation layer for measurable XR training outcomes.
 
+## Published foundation (Unity Asset Store)
+
+Install the core SDK from Unity first, then add this module via Git URL:
+
+- [XRCore – Event-Driven AI Framework for Unity XR](https://assetstore.unity.com/packages/tools/ai-ml-integration/xrcore-event-driven-ai-framework-for-unity-xr-366852)
+
 ## Value in 2 Minutes
 
 1. Install SDK + Toolkit + Assessment.
@@ -40,6 +46,7 @@ Authoring + Analytics
 
 - Hub: [splibiplay](https://github.com/splibiplay/splibiplay)
 - SDK: [xrcore-sdk](https://github.com/splibiplay/xrcore-sdk)
+- Context: [xrcore-context](https://github.com/splibiplay/xrcore-context)
 - Toolkit: [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
 - Authoring: [xrcore-training-authoring](https://github.com/splibiplay/xrcore-training-authoring)
 - Voice: [xrcore-voice](https://github.com/splibiplay/xrcore-voice)
